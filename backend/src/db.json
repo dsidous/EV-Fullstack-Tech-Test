@@ -1,0 +1,18 @@
+{
+  "clients": [
+    {
+      "name": "John",
+      "email": "john@doe.com",
+      "company": "Best company",
+      "createdDate": 1650227978356,
+      "id": 1
+    },
+    {
+      "name": "Jane",
+      "email": "jane@doe.com",
+      "company": "Great company",
+      "createdDate": 1650228587197,
+      "id": 2
+    }
+  ]
+}
